@@ -12,73 +12,76 @@
 
 ## 🔍 About Me  
 
-With 12+ years of experience in data science, machine learning, and AI, I specialize in developing scalable AI solutions that seamlessly integrate predictive modeling, NLP, optimization, and automation to drive impact. My expertise spans reporting on $1B+ revenue growth campaigns, Generative AI applications, LLM-powered automation, Software Engineering for ML-Driven Applicaitons, Educating whole organizations on business & AI and much much more - delivering high-value insights through granular and nuanced data science analyses and reporting. I have successfully led AI-driven initiatives across diverse industries, including Oil & Gas, Finance, and Healthcare, translating complex data into strategic, actionable intelligence.
+With 5+ years in AI, data science, and analytics (12 including education), I build **scalable, impact-driven solutions** that integrate predictive modeling, NLP, optimization, and automation. From **$1B+ growth reporting** to **GenAI platforms**, and from **core data science** to **Ivy League instruction**, I turn complexity into actionable insights and impact across **healthcare, energy, and finance**.
 
-As a **Product/Project Manager**, I collaborate closely with **data science, data engineering, software engineering, and analytics teams** to **bridge the gap** between AI strategy, engineering, and business while driving measurable impact. I have led cross-functional teams in deploying LLM-powered analytics platforms, invoice classification models (achieving 80% accuracy and $100K in savings), and optimization engines for supply chain and Rx allocation, ensuring scalable and efficient AI-driven solutions.
+--
 
-Additionally, I mentor and train professionals transitioning into data science, having instructed **200+ students** across Ivy League institutions.  
+### What I Do:
+- 🔍 **Build AI Systems** – Forecasting, optimization engines, invoice classification (80% accuracy, $100K+ savings)
+- 🤝 **Bridge Tech & Business** – Leading cross-functional teams in DS, DE, and engineering to deliver enterprise AI
+- 📊 **Drive Analytics at Scale** – Scaled platforms for Rx allocation, ad performance, and operational efficiency
+- 🎓 **Mentor at Scale** – Taught 200+ students at Ivy League schools, guiding career transitions into DS/AI
 
-I am passionate about:  
-✅ **LLM & Generative AI** – AI-driven automation, Retrieval-Augmented Generation (RAG), Agentic AI  
-✅ **AI for Business Impact** – Optimizing decision-making, forecasting, and reducing operational inefficiencies  
-✅ **Data Science & Optimization** – Building ML-driven systems for **finance, supply chain, and healthcare**  
-✅ **Coaching & Mentorship** – Helping professionals transition into AI & data science  
+---
+
+### Focus Areas:
+- ✅ **LLMs & GenAI** – RAG, Agentic AI, LLM automation
+- ✅ **AI for Business** – Strategy, decision science, ops optimization
+- ✅ **Data Science** – ML systems for finance, supply chain, healthcare
+- ✅ **Coaching & Education** – Empowering the next wave of DS leaders
 
 ---
 
 ## 📌 Key Client Projects
 
-### 🔷 Global & Small Business Growth Reporting Suite
-#### 📌 Achieved 80% accuracy, saving $100K+ in manual processing costs
-#### 📌 Managed Data Science, Data Engineering, and Marketing Analytics teams to scope, build, & maintain a suite of reporting products for growth campaigns (>$1B Revenue), reducing total marketing reporting time by 25% and increasing operational efficiency by 40%.
+### 🔹 Global Growth Reporting
+- 💰 $100K+ saved | 25% faster marketing reports
+- 🧠 Led DS/DE/Marketing teams for $1B+ growth campaigns
 
-### 🔷 Invoice Classification & Scheduling Optimization
-#### 📌 Achieved 80% accuracy, saving $100K+ in manual processing costs
-#### 📌 Developed RAG/LLM pipeline for invoice classification automation
-#### 📌 Led Workover Rig Optimization & App Software Development
-#### 📌 Instructor for Analytics Academy, driving AI and data science upskilling
+### 🔹 Invoice Classification & Rig Optimization
+- 🤖 RAG/LLM pipeline → 80% accuracy, $100K+ saved
+- 🛠️ Built optimization app for oil rigs
+- 🎓 Led internal Analytics Academy training
 
-### 🔷 Teen Mental Health Resource Optimization
-#### 📌 Developed Random Forest model for survey response interpretation
-#### 📌 A/B testing & statistical analysis optimized mental health resource allocation
-#### 📌 20% increase in protective factor-associated responses in Georgia
+### 🔹 Teen Mental Health Modeling
+- 🌱 20% increase in protective survey responses
+- 🌐 Applied A/B testing + Random Forest for better resource targeting
 
-### 🔷 Waste Forecasting & Predictive Analytics
-#### 📌 Applied LightGBM & Empirical Mode Decomposition for predictive waste management
-#### 📌 Developed a framework for waste volume forecasting, optimizing allocation strategies
+### 🔹 Waste Forecasting Engine
+- 🧪 LightGBM + EMD to predict waste volumes
+- ♻️ Enabled smarter allocation strategies
 
-### 🔷 Legal Multimodal LLM for Trafficking & Abuse Cases
-#### 📌 Designed a Multimodal LLM for legal intelligence in trafficking & abuse cases
-#### 📌 Enhanced case analysis with advanced NLP & vision-based AI applications
+### 🔹 Legal AI for Trafficking Cases
+- ⚖️ Built vision + NLP LLM for case analysis
+- 📂 Improved legal document review and insights
 
-### 🔷 Rx Supply & Demand Forecasting
-#### 📌 Built a linear programming engine to optimize Rx allocation
-#### 📌 Forecasted supply & demand trends, ensuring equitable distribution
+### 🔹 Rx Supply Forecasting
+- 📦 Linear programming engine for equitable allocation
+- 🔄 Modeled demand/supply to guide distribution
 
-### 🔷 AI in Equipment Performance & Failure Analysis
-#### 📌 Developed Autonomous & Agentic AI Applications for predictive maintenance
-#### 📌 Enhanced failure analysis & performance monitoring across industries
+### 🔹 Equipment Failure Prediction
+- ⚙️ Developed agentic AI for predictive maintenance
+- 🔍 Improved failure detection & uptime
 
-### 🔷 LLM-Based Internal Applications & GenAI Education
-#### 📌 Boosted research and $10M+ in sales through LLM-based automation
-#### 📌 Led Generative AI education initiatives, accelerating enterprise adoption
+### 🔹 GenAI Applications & Education
+- 💸 Drove $10M+ in sales via LLM-based automation
+- 🧑‍🏫 Spearheaded GenAI training across the org
 
-### 🔷 Enterprise Data Science & Platform Enhancements
-#### 📌 Supported $10M+ in sales growth by optimizing O&G operations
-#### 📌 Delivered data-driven solutions for enhanced platform performance
+### 🔹 Data Platform Optimization (Oil & Gas)
+- 🚀 Boosted $10M+ revenue with DS solutions
+- 📈 Enhanced data platforms for performance
 
-### 🔷 Global Lab Data Engineering & Azure Synapse Integration
-#### 📌 Consolidated 100+ global lab datasets into Azure Synapse
-#### 📌 Integrated unstructured data, improving accessibility & analysis
+### 🔹 Global Lab Data Integration
+- 🌍 Unified 100+ lab datasets into Azure Synapse
+- 📊 Improved access to unstructured data
 
-### 🔷 Manager of Finance and Analytics
-#### 📌 Increased revenue $1MM+ & reduced acquisition costs $500K w/ DNI & CPA reporting dashboards.
-#### 📌 Saved $500K in CPA costs w/ Random Forest & BG/NBD + Monte Carlo simulations for repeat purchase forecasting.
-#### 📌 Maintained code repositories for modeling, reporting, & architecture, and a custom SQL driver for Google Sheets
+### 🔹 Finance & Analytics Management
+- 📉 $500K saved via RF & Monte Carlo forecasting
+- 💼 $1M+ added revenue | Custom SQL driver for Google Sheets
 
-### 🔷 Artificial Intelligence Instructor
-#### 📌 Rice University, Columbia, Northwestern, University of Washington, University of Denver
-#### 📌 AI curriculum: ML, MLOps, Solution Architecture, Forecasting, NLP, NNs, LLMs, & Agents - 200+ students/10 cohorts
+### 🔹 AI Instructor (200+ Students)
+- 🏫 Taught at Rice, Columbia, Northwestern, UW, Denver
+- 📘 Topics: ML, MLOps, NLP, Forecasting, LLMs, Agents
 
 ---
 Public Projects (WIP to revamp as I make my voice in this space more known!)
